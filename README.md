@@ -32,7 +32,7 @@ git clone <repository-url>
 cd project-directory
 ```
 ```shell
-npm init -y
+npm install
 ```
 ```shell
 node index.js
